@@ -1,0 +1,27 @@
+# Environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Database and logs
+*.db
+*.log
+
+# VSCode
+.vscode/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Mac/Linux system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Node stuff (if applicable in your frontend)
+node_modules/
+dist/
