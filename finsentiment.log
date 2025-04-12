@@ -1,0 +1,142 @@
+2025-04-12 11:34:23,584 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 11:34:23,648 - __main__ - INFO - Database setup complete
+2025-04-12 11:34:24,485 - __main__ - INFO - Database setup complete
+2025-04-12 11:44:02,307 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 11:44:02,309 - __main__ - INFO - Database setup complete
+2025-04-12 11:44:02,373 - __main__ - INFO - Database setup complete
+2025-04-12 11:44:07,000 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 11:44:07,004 - __main__ - INFO - Database setup complete
+2025-04-12 11:44:07,030 - __main__ - INFO - Database setup complete
+2025-04-12 11:44:07,668 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 11:44:07,671 - __main__ - INFO - Database setup complete
+2025-04-12 11:44:07,677 - __main__ - INFO - Database setup complete
+2025-04-12 11:44:13,152 - __main__ - INFO - Saved 251 stock price records to database
+2025-04-12 11:44:24,793 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22769/why-the-zacks-rank-is-more-important-than-ever': No scheme supplied. Perhaps you meant https:///news/22769/why-the-zacks-rank-is-more-important-than-ever?
+2025-04-12 11:44:30,822 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22684/is-apple-inc-nasdaq-aapl-a-nasdaq-stock-with-the-highest-upside-potential': No scheme supplied. Perhaps you meant https:///news/22684/is-apple-inc-nasdaq-aapl-a-nasdaq-stock-with-the-highest-upside-potential?
+2025-04-12 11:44:43,688 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22586/jim-cramer-on-apple-aapl-what-is-the-most-hurt-stock-apple-are-those-just-fools-buying-it': No scheme supplied. Perhaps you meant https:///news/22586/jim-cramer-on-apple-aapl-what-is-the-most-hurt-stock-apple-are-those-just-fools-buying-it?
+2025-04-12 11:44:50,315 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22541/how-to-invest-in-todays-market': No scheme supplied. Perhaps you meant https:///news/22541/how-to-invest-in-todays-market?
+2025-04-12 11:44:51,317 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22578/us-sino-trade-war-escalates-etf-areas-under-pressure': No scheme supplied. Perhaps you meant https:///news/22578/us-sino-trade-war-escalates-etf-areas-under-pressure?
+2025-04-12 11:44:52,320 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22454/is-apple-inc-aaplthe-top-tech-stock-to-buy-according-to-billionaire-ken-fisher': No scheme supplied. Perhaps you meant https:///news/22454/is-apple-inc-aaplthe-top-tech-stock-to-buy-according-to-billionaire-ken-fisher?
+2025-04-12 11:45:04,000 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22408/apple-aapl-gets-a-pass-on-tariffs-500-billion-us-investment-could-be-its-saving-grace': No scheme supplied. Perhaps you meant https:///news/22408/apple-aapl-gets-a-pass-on-tariffs-500-billion-us-investment-could-be-its-saving-grace?
+2025-04-12 11:45:07,477 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22431/netflix-stock-surges-479-in-a-year-on-content-strategy-time-to-buy': No scheme supplied. Perhaps you meant https:///news/22431/netflix-stock-surges-479-in-a-year-on-content-strategy-time-to-buy?
+2025-04-12 11:45:12,396 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22325/company-news-for-apr-11-2025': No scheme supplied. Perhaps you meant https:///news/22325/company-news-for-apr-11-2025?
+2025-04-12 11:45:17,262 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22165/is-apple-inc-aapl-among-the-best-digital-payments-stocks-to-buy-according-to-analysts': No scheme supplied. Perhaps you meant https:///news/22165/is-apple-inc-aapl-among-the-best-digital-payments-stocks-to-buy-according-to-analysts?
+2025-04-12 11:45:20,306 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22142/apple-losing-its-darling-status-or-a-dip-buying-opportunity': No scheme supplied. Perhaps you meant https:///news/22142/apple-losing-its-darling-status-or-a-dip-buying-opportunity?
+2025-04-12 11:45:22,664 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22068/zacks-investment-ideas-feature-highlights-nvidia-and-apple': No scheme supplied. Perhaps you meant https:///news/22068/zacks-investment-ideas-feature-highlights-nvidia-and-apple?
+2025-04-12 11:45:23,666 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22017/3-ways-to-keep-your-portfolio-safe-during-tariff-volatility': No scheme supplied. Perhaps you meant https:///news/22017/3-ways-to-keep-your-portfolio-safe-during-tariff-volatility?
+2025-04-12 11:45:29,456 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21877/jim-cramer-on-apple-inc-aapl-can-tariffs-derail-the-iphone-giants-global-dominance': No scheme supplied. Perhaps you meant https:///news/21877/jim-cramer-on-apple-inc-aapl-can-tariffs-derail-the-iphone-giants-global-dominance?
+2025-04-12 11:45:32,621 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21874/why-apple-stock-is-sinking-today': No scheme supplied. Perhaps you meant https:///news/21874/why-apple-stock-is-sinking-today?
+2025-04-12 11:45:40,094 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21857/wall-streets-wild-ride-what-tuesdays-rally-means-for-investors': No scheme supplied. Perhaps you meant https:///news/21857/wall-streets-wild-ride-what-tuesdays-rally-means-for-investors?
+2025-04-12 11:45:47,545 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21831/jim-cramer-on-apple-aapl-im-not-gonna-tell-you-its-good-its-bad': No scheme supplied. Perhaps you meant https:///news/21831/jim-cramer-on-apple-aapl-im-not-gonna-tell-you-its-good-its-bad?
+2025-04-12 11:46:01,781 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21688/jim-cramer-warns-apple-aapl-is-caught-in-the-crossfire-of-us-china-tariff-war': No scheme supplied. Perhaps you meant https:///news/21688/jim-cramer-warns-apple-aapl-is-caught-in-the-crossfire-of-us-china-tariff-war?
+2025-04-12 11:46:13,655 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21631/apple-retreats-to-rare-long-term-value-zone': No scheme supplied. Perhaps you meant https:///news/21631/apple-retreats-to-rare-long-term-value-zone?
+2025-04-12 11:46:16,008 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21582/should-you-hold-on-to-hpq-stock-despite-its-16-decline-in-a-month': No scheme supplied. Perhaps you meant https:///news/21582/should-you-hold-on-to-hpq-stock-despite-its-16-decline-in-a-month?
+2025-04-12 11:46:20,921 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21470/trumps-tariff-pause-triggers-epic-rally-how-to-play-mag-7-now': No scheme supplied. Perhaps you meant https:///news/21470/trumps-tariff-pause-triggers-epic-rally-how-to-play-mag-7-now?
+2025-04-12 11:46:27,687 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21360/stock-market-news-for-apr-10-2025': No scheme supplied. Perhaps you meant https:///news/21360/stock-market-news-for-apr-10-2025?
+2025-04-12 11:46:28,690 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21308/top-big-data-stocks-to-power-up-your-portfolio-right-away': No scheme supplied. Perhaps you meant https:///news/21308/top-big-data-stocks-to-power-up-your-portfolio-right-away?
+2025-04-12 11:46:34,640 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21028/apple-aapl-faces-global-pressure-keybanc-slashes-price-target-to-170': No scheme supplied. Perhaps you meant https:///news/21028/apple-aapl-faces-global-pressure-keybanc-slashes-price-target-to-170?
+2025-04-12 11:46:39,468 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/20982/should-ishares-sp-500-growth-etf-ivw-be-on-your-investing-radar': No scheme supplied. Perhaps you meant https:///news/20982/should-ishares-sp-500-growth-etf-ivw-be-on-your-investing-radar?
+2025-04-12 11:46:40,471 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/20985/is-schwab-fundamental-us-broad-market-etf-fndb-a-strong-etf-right-now': No scheme supplied. Perhaps you meant https:///news/20985/is-schwab-fundamental-us-broad-market-etf-fndb-a-strong-etf-right-now?
+2025-04-12 11:46:41,474 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/20988/should-you-invest-in-the-vanguard-information-technology-etf-vgt': No scheme supplied. Perhaps you meant https:///news/20988/should-you-invest-in-the-vanguard-information-technology-etf-vgt?
+2025-04-12 11:46:42,475 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/20990/should-goldman-sachs-activebeta-us-large-cap-equity-etf-gslc-be-on-your-investing-radar': No scheme supplied. Perhaps you meant https:///news/20990/should-goldman-sachs-activebeta-us-large-cap-equity-etf-gslc-be-on-your-investing-radar?
+2025-04-12 11:46:43,479 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/20989/is-wisdomtree-us-largecap-dividend-etf-dln-a-strong-etf-right-now': No scheme supplied. Perhaps you meant https:///news/20989/is-wisdomtree-us-largecap-dividend-etf-dln-a-strong-etf-right-now?
+2025-04-12 11:46:49,849 - __main__ - INFO - Saved 96 news articles to database
+2025-04-12 11:46:49,853 - __main__ - WARNING - Twitter API not initialized, using simulated data
+2025-04-12 11:46:49,954 - __main__ - INFO - Saved 200 social media posts to database
+2025-04-12 11:46:51,792 - __main__ - ERROR - Dashboard error: 'Styler' object is not subscriptable
+2025-04-12 11:47:44,738 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 11:47:44,740 - __main__ - INFO - Database setup complete
+2025-04-12 11:47:45,341 - __main__ - INFO - Database setup complete
+2025-04-12 11:47:47,208 - __main__ - ERROR - Dashboard error: 'Styler' object is not subscriptable
+2025-04-12 11:48:00,242 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 11:48:00,244 - __main__ - INFO - Database setup complete
+2025-04-12 11:48:00,250 - __main__ - INFO - Database setup complete
+2025-04-12 11:48:01,085 - __main__ - ERROR - Error saving stock prices to database: UNIQUE constraint failed: stock_prices.ticker, stock_prices.date
+2025-04-12 11:48:12,502 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22769/why-the-zacks-rank-is-more-important-than-ever': No scheme supplied. Perhaps you meant https:///news/22769/why-the-zacks-rank-is-more-important-than-ever?
+2025-04-12 11:48:18,152 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22684/is-apple-inc-nasdaq-aapl-a-nasdaq-stock-with-the-highest-upside-potential': No scheme supplied. Perhaps you meant https:///news/22684/is-apple-inc-nasdaq-aapl-a-nasdaq-stock-with-the-highest-upside-potential?
+2025-04-12 11:48:30,823 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22586/jim-cramer-on-apple-aapl-what-is-the-most-hurt-stock-apple-are-those-just-fools-buying-it': No scheme supplied. Perhaps you meant https:///news/22586/jim-cramer-on-apple-aapl-what-is-the-most-hurt-stock-apple-are-those-just-fools-buying-it?
+2025-04-12 11:48:37,473 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22541/how-to-invest-in-todays-market': No scheme supplied. Perhaps you meant https:///news/22541/how-to-invest-in-todays-market?
+2025-04-12 11:48:38,475 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22578/us-sino-trade-war-escalates-etf-areas-under-pressure': No scheme supplied. Perhaps you meant https:///news/22578/us-sino-trade-war-escalates-etf-areas-under-pressure?
+2025-04-12 11:48:39,476 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22454/is-apple-inc-aaplthe-top-tech-stock-to-buy-according-to-billionaire-ken-fisher': No scheme supplied. Perhaps you meant https:///news/22454/is-apple-inc-aaplthe-top-tech-stock-to-buy-according-to-billionaire-ken-fisher?
+2025-04-12 11:48:49,999 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22408/apple-aapl-gets-a-pass-on-tariffs-500-billion-us-investment-could-be-its-saving-grace': No scheme supplied. Perhaps you meant https:///news/22408/apple-aapl-gets-a-pass-on-tariffs-500-billion-us-investment-could-be-its-saving-grace?
+2025-04-12 11:48:53,423 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22431/netflix-stock-surges-479-in-a-year-on-content-strategy-time-to-buy': No scheme supplied. Perhaps you meant https:///news/22431/netflix-stock-surges-479-in-a-year-on-content-strategy-time-to-buy?
+2025-04-12 11:48:58,074 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22325/company-news-for-apr-11-2025': No scheme supplied. Perhaps you meant https:///news/22325/company-news-for-apr-11-2025?
+2025-04-12 11:49:03,032 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22165/is-apple-inc-aapl-among-the-best-digital-payments-stocks-to-buy-according-to-analysts': No scheme supplied. Perhaps you meant https:///news/22165/is-apple-inc-aapl-among-the-best-digital-payments-stocks-to-buy-according-to-analysts?
+2025-04-12 11:49:05,988 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22142/apple-losing-its-darling-status-or-a-dip-buying-opportunity': No scheme supplied. Perhaps you meant https:///news/22142/apple-losing-its-darling-status-or-a-dip-buying-opportunity?
+2025-04-12 11:49:08,386 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22068/zacks-investment-ideas-feature-highlights-nvidia-and-apple': No scheme supplied. Perhaps you meant https:///news/22068/zacks-investment-ideas-feature-highlights-nvidia-and-apple?
+2025-04-12 11:49:09,389 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/22017/3-ways-to-keep-your-portfolio-safe-during-tariff-volatility': No scheme supplied. Perhaps you meant https:///news/22017/3-ways-to-keep-your-portfolio-safe-during-tariff-volatility?
+2025-04-12 11:49:15,074 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21877/jim-cramer-on-apple-inc-aapl-can-tariffs-derail-the-iphone-giants-global-dominance': No scheme supplied. Perhaps you meant https:///news/21877/jim-cramer-on-apple-inc-aapl-can-tariffs-derail-the-iphone-giants-global-dominance?
+2025-04-12 11:49:18,078 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21874/why-apple-stock-is-sinking-today': No scheme supplied. Perhaps you meant https:///news/21874/why-apple-stock-is-sinking-today?
+2025-04-12 11:49:25,474 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21857/wall-streets-wild-ride-what-tuesdays-rally-means-for-investors': No scheme supplied. Perhaps you meant https:///news/21857/wall-streets-wild-ride-what-tuesdays-rally-means-for-investors?
+2025-04-12 11:49:32,584 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21831/jim-cramer-on-apple-aapl-im-not-gonna-tell-you-its-good-its-bad': No scheme supplied. Perhaps you meant https:///news/21831/jim-cramer-on-apple-aapl-im-not-gonna-tell-you-its-good-its-bad?
+2025-04-12 11:49:45,792 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21688/jim-cramer-warns-apple-aapl-is-caught-in-the-crossfire-of-us-china-tariff-war': No scheme supplied. Perhaps you meant https:///news/21688/jim-cramer-warns-apple-aapl-is-caught-in-the-crossfire-of-us-china-tariff-war?
+2025-04-12 11:49:57,902 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21631/apple-retreats-to-rare-long-term-value-zone': No scheme supplied. Perhaps you meant https:///news/21631/apple-retreats-to-rare-long-term-value-zone?
+2025-04-12 11:50:00,236 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21582/should-you-hold-on-to-hpq-stock-despite-its-16-decline-in-a-month': No scheme supplied. Perhaps you meant https:///news/21582/should-you-hold-on-to-hpq-stock-despite-its-16-decline-in-a-month?
+2025-04-12 11:50:05,096 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21470/trumps-tariff-pause-triggers-epic-rally-how-to-play-mag-7-now': No scheme supplied. Perhaps you meant https:///news/21470/trumps-tariff-pause-triggers-epic-rally-how-to-play-mag-7-now?
+2025-04-12 11:50:11,407 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21360/stock-market-news-for-apr-10-2025': No scheme supplied. Perhaps you meant https:///news/21360/stock-market-news-for-apr-10-2025?
+2025-04-12 11:50:12,409 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21308/top-big-data-stocks-to-power-up-your-portfolio-right-away': No scheme supplied. Perhaps you meant https:///news/21308/top-big-data-stocks-to-power-up-your-portfolio-right-away?
+2025-04-12 11:50:18,057 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/21028/apple-aapl-faces-global-pressure-keybanc-slashes-price-target-to-170': No scheme supplied. Perhaps you meant https:///news/21028/apple-aapl-faces-global-pressure-keybanc-slashes-price-target-to-170?
+2025-04-12 11:50:22,872 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/20982/should-ishares-sp-500-growth-etf-ivw-be-on-your-investing-radar': No scheme supplied. Perhaps you meant https:///news/20982/should-ishares-sp-500-growth-etf-ivw-be-on-your-investing-radar?
+2025-04-12 11:50:23,876 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/20985/is-schwab-fundamental-us-broad-market-etf-fndb-a-strong-etf-right-now': No scheme supplied. Perhaps you meant https:///news/20985/is-schwab-fundamental-us-broad-market-etf-fndb-a-strong-etf-right-now?
+2025-04-12 11:50:24,878 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/20988/should-you-invest-in-the-vanguard-information-technology-etf-vgt': No scheme supplied. Perhaps you meant https:///news/20988/should-you-invest-in-the-vanguard-information-technology-etf-vgt?
+2025-04-12 11:50:25,882 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/20990/should-goldman-sachs-activebeta-us-large-cap-equity-etf-gslc-be-on-your-investing-radar': No scheme supplied. Perhaps you meant https:///news/20990/should-goldman-sachs-activebeta-us-large-cap-equity-etf-gslc-be-on-your-investing-radar?
+2025-04-12 11:50:26,884 - __main__ - ERROR - Error fetching article content: Invalid URL '/news/20989/is-wisdomtree-us-largecap-dividend-etf-dln-a-strong-etf-right-now': No scheme supplied. Perhaps you meant https:///news/20989/is-wisdomtree-us-largecap-dividend-etf-dln-a-strong-etf-right-now?
+2025-04-12 11:50:33,263 - __main__ - WARNING - Duplicate entries found: UNIQUE constraint failed: news_articles.url
+2025-04-12 11:50:33,265 - __main__ - WARNING - Twitter API not initialized, using simulated data
+2025-04-12 11:50:33,396 - __main__ - INFO - Saved 200 social media posts to database
+2025-04-12 11:50:34,555 - __main__ - ERROR - Dashboard error: 'Styler' object is not subscriptable
+2025-04-12 12:56:58,065 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 12:56:58,067 - __main__ - INFO - Database setup complete
+2025-04-12 12:56:58,756 - __main__ - INFO - Database setup complete
+2025-04-12 12:57:00,916 - __main__ - ERROR - Dashboard error: 'Styler' object is not subscriptable
+2025-04-12 12:57:47,939 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 12:57:47,941 - __main__ - INFO - Database setup complete
+2025-04-12 12:57:47,945 - __main__ - INFO - Database setup complete
+2025-04-12 12:57:50,971 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 12:57:50,974 - __main__ - INFO - Database setup complete
+2025-04-12 12:57:50,981 - __main__ - INFO - Database setup complete
+2025-04-12 12:57:52,694 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 12:57:52,697 - __main__ - INFO - Database setup complete
+2025-04-12 12:57:52,701 - __main__ - INFO - Database setup complete
+2025-04-12 12:57:53,731 - __main__ - INFO - Saved 251 stock price records to database
+2025-04-12 13:00:30,318 - __main__ - WARNING - Duplicate entries found: UNIQUE constraint failed: news_articles.url
+2025-04-12 13:00:30,321 - __main__ - WARNING - Twitter API not initialized, using simulated data
+2025-04-12 13:00:30,415 - __main__ - INFO - Saved 200 social media posts to database
+2025-04-12 13:00:31,328 - __main__ - ERROR - Dashboard error: 'Styler' object is not subscriptable
+2025-04-12 13:04:22,441 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 13:04:22,443 - __main__ - INFO - Database setup complete
+2025-04-12 13:04:23,082 - __main__ - INFO - Database setup complete
+2025-04-12 13:04:24,916 - __main__ - ERROR - Dashboard error: 'Styler' object is not subscriptable
+2025-04-12 13:17:45,698 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 13:17:45,699 - __main__ - INFO - Database setup complete
+2025-04-12 13:17:46,323 - __main__ - INFO - Database setup complete
+2025-04-12 13:17:52,840 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 13:17:52,842 - __main__ - INFO - Database setup complete
+2025-04-12 13:17:52,846 - __main__ - INFO - Database setup complete
+2025-04-12 13:17:54,550 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 13:17:54,553 - __main__ - INFO - Database setup complete
+2025-04-12 13:17:54,559 - __main__ - INFO - Database setup complete
+2025-04-12 13:17:55,629 - __main__ - INFO - Updated 251 stock price records in database
+2025-04-12 13:20:29,094 - __main__ - WARNING - Duplicate entries found: UNIQUE constraint failed: news_articles.url
+2025-04-12 13:20:29,098 - __main__ - WARNING - Twitter API not initialized, using simulated data
+2025-04-12 13:20:29,193 - __main__ - INFO - Saved 200 social media posts to database
+2025-04-12 13:31:00,502 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 13:31:00,505 - __main__ - INFO - Database setup complete
+2025-04-12 13:31:00,510 - __main__ - INFO - Database setup complete
+2025-04-12 13:31:01,104 - __main__ - INFO - Updated 251 stock price records in database
+2025-04-12 13:33:33,238 - __main__ - WARNING - Duplicate entries found: UNIQUE constraint failed: news_articles.url
+2025-04-12 13:33:33,243 - __main__ - WARNING - Twitter API not initialized, using simulated data
+2025-04-12 13:33:33,352 - __main__ - INFO - Saved 200 social media posts to database
+2025-04-12 14:22:52,464 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 14:22:52,466 - __main__ - INFO - Database setup complete
+2025-04-12 14:22:53,003 - __main__ - INFO - Database setup complete
+2025-04-12 14:23:19,001 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 14:23:19,005 - __main__ - INFO - Database setup complete
+2025-04-12 14:23:19,010 - __main__ - INFO - Database setup complete
+2025-04-12 14:23:20,407 - __main__ - INFO - Starting Financial Sentiment Analysis Dashboard
+2025-04-12 14:23:20,408 - __main__ - INFO - Database setup complete
+2025-04-12 14:23:20,412 - __main__ - INFO - Database setup complete
+2025-04-12 14:23:21,696 - __main__ - INFO - Updated 251 stock price records in database
+2025-04-12 14:25:56,858 - __main__ - WARNING - Duplicate entries found: UNIQUE constraint failed: news_articles.url
+2025-04-12 14:25:56,860 - __main__ - WARNING - Twitter API not initialized, using simulated data
+2025-04-12 14:25:56,972 - __main__ - INFO - Saved 200 social media posts to database
